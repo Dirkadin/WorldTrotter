@@ -68,5 +68,3 @@ class ConversionViewController: UIViewController, UITextFieldDelegate {
         }
     }
 }
-
-// test
